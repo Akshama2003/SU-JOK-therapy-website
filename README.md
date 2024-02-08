@@ -502,7 +502,7 @@
             <p class="text-slate-100 text-sm font-bold">
               FOR ANY QUERY
             </p>
-            <h2 class="text-lg font-bold text-white">Call us :- 938967##**</h2>
+            <h2 class="text-lg font-bold text-white">Call us :- 938967##</h2>
           </div>
         </div>
         </div>
